@@ -48,13 +48,6 @@ ipython_config.py
 # Windows
 Thumbs.db
 
-# Plot outputs
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.html
-
 # Logs
 *.log
 
