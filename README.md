@@ -53,10 +53,10 @@ You can view the full analysis and modeling process here:
 
 ## Repository Structure
 
-├── Car_Price.ipynb
-├── README.md
-├── images/
-└── data/
+- `Car_Price.ipynb` — Main analysis notebook  
+- `README.md` — Project overview and findings  
+- `images/` — Visualizations used in the report  
+- `data/` — Dataset (or sample data)
 
 ---
 
